@@ -150,6 +150,7 @@
       "id": 1,
       "name": "Floyd Miles",
       "city": "New York",
+      "profession": "Content Writer @Company",
       "description": "Hey there, I’m Floyd Miles and welcome to my Blog",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec.",
       "avatar": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -158,6 +159,7 @@
       "id": 2,
       "name": "Dianne Russell",
       "city": "Amsterdam",
+      "profession": "Content Writer @Company",
       "description": "Hey there, I’m Dianne Russell and welcome to my Blog",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec.",
       "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -166,6 +168,7 @@
       "id": 3,
       "name": "Jenny Wilson",
       "city": "London",
+      "profession": "Content Writer @Company",
       "description": "Hey there, I’m Jenny Wilson and welcome to my Blog",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec.",
       "avatar": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -174,6 +177,7 @@
       "id": 4,
       "name": "Leslie Alexander",
       "city": "Rome",
+      "profession": "Content Writer @Company",
       "description": "Hey there, I’m Leslie Alexander and welcome to my Blog",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec.",
       "avatar": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -182,6 +186,7 @@
       "id": 5,
       "name": "Guy Hawkins",
       "city": "Warsaw",
+      "profession": "Content Writer @Company",
       "description": "Hey there, I’m Guy Hawkins and welcome to my Blog",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec.",
       "avatar": "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -190,6 +195,7 @@
       "id": 6,
       "name": "Eleanor Pena",
       "city": "Beijing",
+      "profession": "Content Writer @Company",
       "description": "Hey there, I’m Eleanor Pena and welcome to my Blog",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec.",
       "avatar": "https://images.unsplash.com/photo-1525875975471-999f65706a10?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -198,6 +204,7 @@
       "id": 7,
       "name": "Robert Fox",
       "city": "Berlin",
+      "profession": "Content Writer @Company",
       "description": "Hey there, I’m Robert Fox and welcome to my Blog",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec.",
       "avatar": "https://images.unsplash.com/photo-1530268729831-4b0b9e170218?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -206,6 +213,7 @@
       "id": 8,
       "name": "Jacob Jones",
       "city": "Paris",
+      "profession": "Content Writer @Company",
       "description": "Hey there, I’m Jacob Jones and welcome to my Blog",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec.",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
