@@ -9,9 +9,9 @@
       "createdDate": "May 2, 2024",
       "category": "Startup",
       "tags": [
-        "Business",
+        "business",
         "life",
-        "Technology"
+        "technology"
       ],
       "author": {
         "name": "Floyd Miles",
@@ -28,8 +28,8 @@
       "createdDate": "April 12, 2024",
       "category": "Startup",
       "tags": [
-        "Marketing",
-        "Screen"
+        "marketing",
+        "screen"
       ],
       "author": {
         "name": "Dianne Russell",
@@ -46,7 +46,7 @@
       "createdDate": "May 1, 2024",
       "category": "Business",
       "tags": [
-        "Screen"
+        "screen"
       ],
       "author": {
         "name": "Jenny Wilson",
@@ -61,10 +61,10 @@
       "title": "Step-by-step guide to choosing great font pairs",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec.",
       "createdDate": "March 26, 2024",
-      "category": "Business",
+      "category": "Technology",
       "tags": [
-        "Technology",
-        "Experience"
+        "technology",
+        "experience"
       ],
       "author": {
         "name": "Leslie Alex",
@@ -79,10 +79,10 @@
       "title": "Font sizes in UI design: The complete guide to follow",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec.",
       "createdDate": "October 13, 2023",
-      "category": "Economy",
+      "category": "Technology",
       "tags": [
-        "Life",
-        "Marketing"
+        "life",
+        "marketing"
       ],
       "author": {
         "name": "Guy Hawkins",
@@ -99,8 +99,8 @@
       "createdDate": "April 14, 2024",
       "category": "Economy",
       "tags": [
-        "Technology",
-        "Marketing"
+        "technology",
+        "marketing"
       ],
       "author": {
         "name": "Eleanor Pena",
@@ -115,9 +115,9 @@
       "title": "Font sizes in UI design: The complete guide to follow",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec.",
       "createdDate": "January 9, 2024",
-      "category": "Technology",
+      "category": "Economy",
       "tags": [
-        "Life"
+        "life"
       ],
       "author": {
         "name": "Robert Fox",
@@ -134,9 +134,9 @@
       "createdDate": "September 20, 2023",
       "category": "Technology",
       "tags": [
-        "Screen",
-        "Life",
-        "Experience"
+        "screen",
+        "life",
+        "experience"
       ],
       "author": {
         "name": "Jacob Jones",
